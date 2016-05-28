@@ -201,4 +201,5 @@ def createSSandAnimate():
 
    #self.should_stop(false)
    #TclError invalid command name .4405307824  need to rewrite set self.should_stop to false
+   #May stopping point - need to rewrite animation loop
 createSSandAnimate()
